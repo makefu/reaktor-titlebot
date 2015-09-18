@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='Reaktor-titlebot',
-    version='2.0.0',
+    version='2.1.0',
 
     description='Titlebot for Reaktor',
     long_description=open("README.md").read(),
@@ -13,7 +13,7 @@ setup(
 
     author='makefu',
     author_email='spam@krebsco.de',
-    install_requires = [ ],
+    # install_requires = [ ],
 
     packages=['titlebot'],
     entry_points={
