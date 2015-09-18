@@ -1,5 +1,5 @@
 # reaktor-titlebot
-Commands and config for the Binärgewitter Titlebot
+Commands and config for the Binaergewitter Titlebot
 
 # Usage
 
